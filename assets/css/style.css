@@ -1,0 +1,60 @@
+*{
+    font-family: 'Segoe Ui' !important;
+    -webkit-transition: all 0.3s ease-in-out;
+}
+a{
+    color: #ff784f;
+}
+h1, h2, h3, h3, h4, h5, h6{
+    font-weight: bold;
+}
+.big{
+    font-size: 120px;
+}
+.big-text{
+    margin-top: 10%;
+}
+.big-text p{
+    font-size: 600%;
+}
+.block{
+    width: 100%
+}
+.margin{
+    margin: 30px 0;
+}
+#categorias i:hover{
+    color: #ff784f;
+}
+.center-all{
+    text-align: center;
+    align-items: center;
+}
+.count-jobs, .count-users, .count-companies, .count-lines{
+    color: #ff784f;
+}
+.cover{
+    padding-bottom: 30px;
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-image: url('../img/cover.jpg');
+}
+.desktop__navigation a{
+    color: #fff !important;
+}
+.header, .header *{
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+input{
+    height: 40px;
+}
+.social{
+    font-size: 50px;
+}
+textarea{
+    height: 100px;
+}
